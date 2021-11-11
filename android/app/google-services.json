@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "714081469924",
+    "project_id": "parasut-96107",
+    "storage_bucket": "parasut-96107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714081469924:android:f3de08a19a13ba1fdf33f1",
+        "android_client_info": {
+          "package_name": "com.ziddioglu.rover.parasut_ziddioglu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714081469924-3noei9fmb0ssebhpataqrvsf26a5qj1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ziddioglu.rover.parasut_ziddioglu",
+            "certificate_hash": "ad9b4969644197e8f59893402bcc81801072fa15"
+          }
+        },
+        {
+          "client_id": "714081469924-8b3e5ppgun60dhlg0dhgrqpkjcvtpq7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCev6jcGFa4kfSqevVeIwW-rYV9TUFB5iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714081469924-8b3e5ppgun60dhlg0dhgrqpkjcvtpq7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

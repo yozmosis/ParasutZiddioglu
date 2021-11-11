@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parasut Login</string>
+    <string name="facebook_app_id">175057531503370</string>
+    <string name="fb_login_protocol_scheme">fb175057531503370</string>
+</resources>
